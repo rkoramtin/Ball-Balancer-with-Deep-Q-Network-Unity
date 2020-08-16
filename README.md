@@ -1,7 +1,6 @@
 # Ball-Balancer-with-Deep-Q-Network-Unity
 In this project we train a Ball with Q-learning To stay on the platform.
 
-
 # Reinforcement learning:
 ![Alt Text](http://uupload.ir/files/ra8_1.png)   
 In Reinforcement learning agents learn to perform actions in an environment in order to to maximize a reward.
