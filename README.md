@@ -26,3 +26,4 @@ For input we use Platform X Rotation, Ball Z Position, and Ball's X Velocity. <b
 The outputs are Quality Values of how quality to the left and the right of the platform is. <br>
 # Training Process: <br>
 ![Alt Text](http://uupload.ir/files/wg5x_ezgif.com-video-to-gif.gif) <br>
+
